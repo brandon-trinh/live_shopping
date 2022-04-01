@@ -1,4 +1,4 @@
-# live_shopping  
+# Bleu Reflet : Live Shopping module
 
 Welcome to our M2 project that we did with Bleu Reflet.  
 To run the project in localhost, you can use the live_server module in VSCode. Otherwise, you will need the credentials to connect to Firebase (which are now handle by Bleu Reflet).  
